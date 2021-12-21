@@ -2,7 +2,7 @@
 
 deploy link: https://pphongsavath03.github.io/react-portfolio1/#/about
 
-Github Repo: https://github.com/pphongsavath03/react-portfolio1
+Github Repo: https://github.com/pphongsavath03/react-portfolio1/tree/master
 
 # Description
 
