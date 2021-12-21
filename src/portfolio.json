@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "JCPGMarketWatch",
+        "image": "https://github.com/pphongsavath03/JCPGMarketWatch/raw/main/assets/Photos/Home.PNG",
+        "github": "https://github.com/pphongsavath03/JCPGMarketWatch",
+        "deploy": "https://jcgasper.github.io/JCPGMarketWatch/stockticker.html ",
+        "topics": "Bulma (CSS), ChartJS, Fontawesome (CSS),CoinStats (API), MarketStack"
+    },
+    {
+        "id": 2,
+        "name": "Create-sla",
+        "image": "https://pphongsavath03.github.io/AllAboutMe/assets/create-sla.jpg",
+        "github": "https://github.com/pphongsavath03/create-a-car",
+        "deploy": "https://frozen-lake-03349.herokuapp.com/",
+        "topics": "HTML, CSS, ExpressJS, MySql, NodeJS, Tailwind, Handlebars, Sequelize"
+    },
+    {
+        "id": 3,
+        "name": "Expense Tracker",
+        "image": "https://user-images.githubusercontent.com/87045456/145664014-c55ca29f-92b4-4342-8acf-e8791fecf49d.jpg",
+        "github": "https://github.com/pphongsavath03/expenseTracker",
+        "deploy": "https://immense-fortress-51967.herokuapp.com/",
+        "topics": "ExpressJS, Javascript, MongoDB, Mongoose"
+    },
+    {
+        "id": 4,
+        "name": "Weather Dashboard",
+        "image": "https://user-images.githubusercontent.com/87045456/132418139-2f7f5ce9-c33f-4fe1-9cb1-cc388ae8d3d7.jpg",
+        "github": "https://github.com/pphongsavath03/weather_dashboard",
+        "deploy": "https://pphongsavath03.github.io/weather_dashboard/",
+        "topics": "Moment.js, Javascript, jQuery, localStorage, API"
+    },
+    {
+        "id": 5,
+        "name": "Fitness Tracker",
+        "image": "https://user-images.githubusercontent.com/87045456/144728977-b25ad53f-9a54-40fb-87b5-bed6a12e076d.jpg",
+        "github": "https://github.com/pphongsavath03/WorkoutTracker",
+        "deploy": "https://hidden-ravine-53887.herokuapp.com//",
+        "topics": "ExpressJS, Javascript, MongoDB, Mongoose"
+    },
+    {
+        "id": 6,
+        "name": "Work Day Scheduler",
+        "image": "https://user-images.githubusercontent.com/87045456/131226731-cbe65283-eb4a-4ccd-a4aa-39fa9f4756a2.jpg",
+        "github": "https://github.com/pphongsavath03/day_planner",
+        "deploy": "https://pphongsavath03.github.io/day_planner/",
+        "topics": "HTML5, CSS, Javascript,"
+    }
+]
